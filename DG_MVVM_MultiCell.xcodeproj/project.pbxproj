@@ -95,14 +95,14 @@
 			isa = PBXGroup;
 			children = (
 				72F4E3D71F254CFC00AE5E3F /* Views */,
-				72F4E3C61F25461700AE5E3F /* holm.jpg */,
-				72F4E3C71F25461700AE5E3F /* finn.jpg */,
-				72F4E3C81F25461700AE5E3F /* tom.jpg */,
-				72F4E3C91F25461700AE5E3F /* becky.jpg */,
 				72F4E3B11F25458F00AE5E3F /* AppDelegate.swift */,
 				72F4E3D61F254CEB00AE5E3F /* Controllers */,
 				72F4E3B51F25458F00AE5E3F /* Main.storyboard */,
 				72F4E3BB1F25458F00AE5E3F /* Assets.xcassets */,
+				72F4E3C61F25461700AE5E3F /* holm.jpg */,
+				72F4E3C71F25461700AE5E3F /* finn.jpg */,
+				72F4E3C81F25461700AE5E3F /* tom.jpg */,
+				72F4E3C91F25461700AE5E3F /* becky.jpg */,
 				72F4E3BD1F25458F00AE5E3F /* LaunchScreen.storyboard */,
 				72F4E3C01F25458F00AE5E3F /* Info.plist */,
 				72F4E3B81F25458F00AE5E3F /* DG_MVVM_MultiCell.xcdatamodeld */,
