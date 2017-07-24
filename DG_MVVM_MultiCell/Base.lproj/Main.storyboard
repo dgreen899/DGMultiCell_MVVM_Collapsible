@@ -34,7 +34,9 @@
                             <constraint firstItem="NhT-6o-GOo" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" id="wWd-7B-5jD"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="Profile Sample" id="gDX-HY-xjx"/>
+                    <navigationItem key="navigationItem" title="Profile Sample" id="gDX-HY-xjx">
+                        <barButtonItem key="rightBarButtonItem" systemItem="bookmarks" id="cWP-dx-FuW"/>
+                    </navigationItem>
                     <connections>
                         <outlet property="tableView" destination="NhT-6o-GOo" id="Jjn-Dl-YmD"/>
                     </connections>
